@@ -1,3 +1,3 @@
 # video-background
-bemo like
+demo link
 https://abo389.github.io/video-background/
